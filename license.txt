@@ -1,2 +1,3 @@
 never give up 
 test remote
+test pull
