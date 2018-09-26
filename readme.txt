@@ -5,3 +5,4 @@ Creating a new branch is quick and simple.
 switch dev test.
 test merge.
 test bug
+test BUG branch.
